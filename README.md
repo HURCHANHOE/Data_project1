@@ -12,11 +12,11 @@
         - 학습 결과 분석
         - 성능 평가
         - 모델 배포 및 리포트 작성
-        - ![image](https://github.com/HURCHANHOE/data_project1/assets/103507851/6a0f8ef9-d58d-494b-a713-14c2edd7cd7a)
+         ![image](https://github.com/HURCHANHOE/data_project1/assets/103507851/6a0f8ef9-d58d-494b-a713-14c2edd7cd7a)
 
 - 실제 수행 내역
-        - ![image](https://github.com/HURCHANHOE/data_project1/assets/103507851/3ca3f942-8b42-4961-bde2-30da606c4630)
-        - ![image](https://github.com/HURCHANHOE/data_project1/assets/103507851/e2587fd9-8794-4daf-84e7-21010385cad7)
+         ![image](https://github.com/HURCHANHOE/data_project1/assets/103507851/3ca3f942-8b42-4961-bde2-30da606c4630)
+         ![image](https://github.com/HURCHANHOE/data_project1/assets/103507851/e2587fd9-8794-4daf-84e7-21010385cad7)
 - 결과 화면
     아래는 국민연금의 데모 화면 입니다
       ![image](https://github.com/HURCHANHOE/data_project1/assets/103507851/b9021080-64a1-497a-8cf7-8c9e3c9aba79)
